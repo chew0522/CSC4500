@@ -1,0 +1,19 @@
+[
+  {
+  "subject": "Your Booking Confirmation - AirAsia",
+  "content": "Thank you for booking with AirAsia. Manage your trip at https://www.airasia.com"
+  },
+
+  {
+    "subject": "Important Notice: Your account has been suspended!",
+    "content": "We detected suspicious activity. Verify your account immediately by logging in at http://secure-update-paypal.com/login"
+  },
+  {
+    "subject": "Meeting Reminder",
+    "content": "Hi team, this is a reminder for our weekly check-in meeting tomorrow at 10 AM. No external links here."
+  },
+  {
+    "subject": "You've won an iPhone!",
+    "content": "Click now to claim your prize: http://freeiphonegiveaway.ru/winner"
+  }
+]
