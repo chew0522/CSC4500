@@ -4,13 +4,13 @@ This project is developed as part of a university assignment for educational pur
 
 ---
 
-## 🎓 Disclaimer
+# 🎓 Disclaimer
 
 This project is strictly intended for learning and academic purposes. It is not production-ready and should not be used in real-world phishing detection systems.
 
 ---
 
-## 📂 Dataset Sources
+# 📂 Dataset Sources
 
 The datasets used in this project were obtained from public sources:
 
@@ -21,7 +21,7 @@ All rights to the datasets belong to their respective authors and contributors.
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Flutter (Frontend)
 - Flask (Backend)
